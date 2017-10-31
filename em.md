@@ -1,2 +1,0 @@
-# tutesag.github.io
-tutesag

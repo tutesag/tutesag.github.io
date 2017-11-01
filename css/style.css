@@ -885,7 +885,7 @@ h3.title-w3-agileits {
 /*--//main--*/
 /*-- /about --*/
 .about-wthree {
-    padding: 5em 0 22.6em 0px;
+    padding: 4em 0 4em 0px;
     background: #eceef2;
 }
 .ab-w3l-spa {
@@ -929,6 +929,10 @@ p.about-para-w3ls {
     letter-spacing: 0.5px;
     margin-bottom: 2em;
 }
+
+/*About Work Content*/
+.ser-top {text-align:center;}
+
 /*-- //about --*/
 /*-- news --*/ 
 .news-info.news-agileinfo2 {

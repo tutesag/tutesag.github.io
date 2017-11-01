@@ -987,6 +987,8 @@ p.about-para-w3ls {
     margin-top: 5em;
 }
 /*-- //news --*/
+
+.event-grids h6 {text-align:center;}
 /*-- visitors --*/
 .w3l-visitors-agile {
     background: rgba(15, 36, 83, 0.07);
